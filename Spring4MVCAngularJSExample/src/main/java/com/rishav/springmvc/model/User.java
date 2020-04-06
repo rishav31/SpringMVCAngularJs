@@ -1,4 +1,4 @@
-package com.websystique.springmvc.model;
+package com.rishav.springmvc.model;
 
 public class User {
 

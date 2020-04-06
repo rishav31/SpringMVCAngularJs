@@ -1,4 +1,4 @@
-package com.websystique.springmvc.controller;
+package com.rishav.springmvc.controller;
  
 import java.util.List;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.websystique.springmvc.model.User;
-import com.websystique.springmvc.service.UserService;
+import com.rishav.springmvc.model.User;
+import com.rishav.springmvc.service.UserService;
  
 @RestController
 public class HelloWorldRestController {

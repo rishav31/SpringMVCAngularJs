@@ -1,4 +1,4 @@
-package com.websystique.springmvc.service;
+package com.rishav.springmvc.service;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import org.springframework.stereotype.Service;
 
-import com.websystique.springmvc.model.User;
+import com.rishav.springmvc.model.User;
 
 @Service("userService")
 public class UserServiceImpl implements UserService{
